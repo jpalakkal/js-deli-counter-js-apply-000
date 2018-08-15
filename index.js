@@ -26,3 +26,5 @@ function currentLine(katzDeliLine){
   return string;
 }
 
+function takeANumber(katzDeliLine) { 
+
