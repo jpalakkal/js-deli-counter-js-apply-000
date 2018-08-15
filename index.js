@@ -25,15 +25,11 @@ function currentLine(katzDeliLine){
   } else return "The line is currently empty.";
   return string;
 }
-
+var lineNumber = 0
 function takeANumber(katzDeliLine) { 
-  var lineNumber = 0
-  if (katzDeliLine.length ===0){
-    lineNumber++
-  
+  lineNumber++
+  katzDeliLine.push(lineNumber)
   return `Welcome, you are number ${lineNumber} `
-  
-  
 }
 
 
