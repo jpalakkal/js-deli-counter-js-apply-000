@@ -27,7 +27,8 @@ function currentLine(katzDeliLine){
 }
 
 function takeANumber(katzDeliLine) { 
-  katzDeliLine.
+  var lineNumber = 0
+  if (katzDeliLine.length ===0){
   
-  return 'Welcome', ${name)
-
+  return 'Welcome', ${name), blank
+}
