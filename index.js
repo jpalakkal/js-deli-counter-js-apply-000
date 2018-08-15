@@ -27,4 +27,7 @@ function currentLine(katzDeliLine){
 }
 
 function takeANumber(katzDeliLine) { 
+  katzDeliLine.
+  
+  return 'Welcome', ${name)
 
